@@ -1,0 +1,22 @@
+{
+  "name": "templategen",
+  "version": "1.0.0",
+  "description": "creates a html on the fly for teams",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4",
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "christopher neill",
+  "license": "MIT"
+}
